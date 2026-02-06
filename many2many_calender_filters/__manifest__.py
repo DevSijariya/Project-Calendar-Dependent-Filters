@@ -29,6 +29,6 @@
     'application': True,
     'installable': True,
     "support": "sanskarsijariya80@gmail.com",
-    "price": 12.0,
+    "price": 5.0,
     "currency": "USD",
 }
